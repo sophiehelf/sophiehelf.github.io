@@ -1,0 +1,37 @@
+#header {
+  margin-left:30px;
+  font-family:Helvetica;
+  font-size:30px;
+  color:blue;
+}
+
+#chunk {
+  width: 320px;
+  margin-left: 30px;
+  font-size:14px;
+  font-family:Helvetica;
+  line-height: 20px;
+}
+
+ul {
+  list-style:none;
+}
+
+ul li {
+  margin-left: -40px;
+}
+
+a {
+  text-decoration:none;
+  border-bottom: dotted 1px;
+}
+
+a:visited {
+  text-decoration:none;
+  color:black;
+}
+
+a:active {
+  text-decoration:none;
+  color:black;
+}
